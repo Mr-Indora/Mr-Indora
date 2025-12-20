@@ -23,8 +23,7 @@ I deliberately prioritize **clarity, system design, and repeatability** over qui
 
 ## 🌐 Connect
 - **LinkedIn:** https://www.linkedin.com/in/hemant-saini-b06031354  
-- **Instagram:** https://www.instagram.com/__hemant_saini/  
-- **Mastodon:** https://mastodon.social/@HemantSaini  
+- **Instagram:** https://www.instagram.com/__hemant_saini/   
 - **Email:** hemantindora124@gmail.com  
 
 ---
