@@ -1,86 +1,82 @@
-# Hemant Saini  
-AI/ML Systems Engineer • Automation • Data Pipelines
+# Hemant Saini
 
-I design and build **production-oriented AI/ML systems** with a strong emphasis on **automation, reproducibility, and scalability**.
-
-My work is not focused on isolated models or demo notebooks.  
-I focus on **end-to-end systems** — where data ingestion, experimentation, evaluation, and execution are treated as a single, reliable pipeline.
-
-I am trained through coursework aligned with the **IIT Madras Data Science program**, grounding my work in strong fundamentals of mathematics, data handling, and applied machine learning.
-
-I deliberately optimize for **engineering rigor over hype** and **long-term system reliability over short-term results**.
+B.Tech CSE Student @ Government Engineering College, Ajmer  
+IIT Madras Data Science Learner  
+AI/ML • Open Source • Python
 
 ---
 
-## What I Work On
+## About Me
 
-- Designing **end-to-end ML pipelines** (data → training → evaluation → automation)
-- Building **automation-first systems** using Python and browser/process automation
-- Structured experimentation using **PyTorch and scikit-learn**
-- Writing code that is **modular, reproducible, and inspection-friendly**
-- Treating ML systems as **software products**, not research experiments
+I am a Computer Science student interested in Artificial Intelligence, Machine Learning, Open Source, and practical software development.
 
----
+I enjoy building hands-on projects related to:
+- Computer Vision
+- Natural Language Processing
+- Generative AI
+- Automation
+- Python-based Applications
 
-## Engineering Philosophy
-
-- Systems fail at the boundaries — I design for those boundaries.
-- Reproducibility is a feature, not an afterthought.
-- Clear abstractions beat clever hacks.
-- If it can’t be automated, it isn’t finished.
-- Code should explain itself before documentation has to.
+Currently exploring real-world development workflows through projects, open-source programs, internships, and continuous learning.
 
 ---
 
-## Technical Stack
+## Tech Stack
 
-**Languages**
-- Python, Java
+### Languages
+- Python
+- Java
 
-**Machine Learning & Data**
-- NumPy, Pandas, SciPy  
-- scikit-learn, PyTorch  
-- Matplotlib  
+### AI/ML & Data
+- NumPy
+- Pandas
+- Scikit-Learn
+- PyTorch
+- OpenCV
+- YOLOv8
 
-**Automation & Tooling**
-- Selenium  
-- Anaconda  
-
-**Databases & Infra**
-- MySQL  
-- AWS, Azure, Render  
-
-**Hardware Awareness**
-- NVIDIA, AMD  
-
----
-
-## Selected Work
-
-Most repositories here are built with the intent to:
-- evolve into larger systems,
-- be refactored,
-- and survive real-world constraints.
-
-I treat repositories as **living systems**, not static showcases.
+### Tools & Platforms
+- Git & GitHub
+- Streamlit
+- Flask
+- Linux
+- VS Code
 
 ---
 
-## GitHub Activity
+## Featured Projects
+
+### Real-Time Object Detection
+Built a real-time object detection system using YOLOv8 and OpenCV.
+
+### AI Chatbot
+Developed a Generative AI chatbot using Python, Streamlit, and Gemini API.
+
+### Language Translator
+Created a GUI-based language translator using Python and Deep Translator.
+
+---
+
+## Open Source
+
+Selected as a Contributor/Mentee for:
+- GirlScript Summer of Code 2026 (AI / Agents Track)
+- NSOC
+- SSOC
+
+Currently learning collaborative development and contributing through open-source programs.
+
+---
+
+## GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Mr-Indora&theme=dark&include_all_commits=true&count_private=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Mr-Indora&theme=dark)
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Indora&theme=dark&layout=compact)
 
 ---
 
-## Contact
+## Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/hemant-saini-b06031354  
-- **Instagram:** https://www.instagram.com/__hemant_saini/  
-- **Email:** hemantindora124@gmail.com  
-
----
-
-I am actively building toward **large-scale, automation-driven AI systems**.  
-Quality, depth, and execution speed matter more to me than surface-level visibility.
+- LinkedIn: https://www.linkedin.com/in/hemant-saini-b06031354
+- Email: hemantindora124@gmail.com
